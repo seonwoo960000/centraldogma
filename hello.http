@@ -1,0 +1,2 @@
+GET localhost:36462/api/v1/projects/test_project
+#Authorization: bearer 798270c1-37f3-489b-b477-5f82580b6d4c
